@@ -13,6 +13,7 @@ let g:syntastic_check_on_wq = 0
 
 packloadall
 
+filetype plugin indent on
 syntax on
 set background=dark
 let g:gruvbox_contrast_dark='hard'
