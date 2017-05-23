@@ -1,0 +1,36 @@
+[submodule "pack/pack/colorschemes/start/vim-colors-solarized"]
+	path = pack/colorschemes/start/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "pack/pack/python/start/vim-flake8"]
+	path = pack/python/start/vim-flake8
+	url = https://github.com/nvie/vim-flake8.git
+[submodule "pack/misc/start/vim-airline"]
+	path = pack/misc/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/misc/start/vim-fugitive"]
+	path = pack/misc/start/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "pack/misc/start/vim-easymotion"]
+	path = pack/misc/start/vim-easymotion
+	url = git://github.com/easymotion/vim-easymotion.git
+[submodule "pack/misc/start/vim-sensible"]
+	path = pack/misc/start/vim-sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "pack/cpp/vim-cpp-enhanced-highlight"]
+	path = pack/cpp/vim-cpp-enhanced-highlight
+	url = http://github.com/octol/vim-cpp-enhanced-highlight
+[submodule "pack/misc/start/vim-startify"]
+	path = pack/misc/start/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
+[submodule "pack/colorschemes/start/gruvbox"]
+	path = pack/colorschemes/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/misc/start/rename.vim"]
+	path = pack/misc/start/rename.vim
+	url = https://github.com/danro/rename.vim.git
+[submodule "pack/rust/start/rust.vim"]
+	path = pack/rust/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "pack/misc/start/syntastic"]
+	path = pack/misc/start/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
