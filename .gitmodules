@@ -34,3 +34,6 @@
 [submodule "pack/misc/start/vim-sensible"]
 	path = pack/misc/start/vim-sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "pack/misc/start/fzf.vim"]
+	path = pack/misc/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
